@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+*.user
+artifacts/
+.vscode/
+.dotnet/
+*.binlog
+sh.exe.stackdump
+node_modules/
