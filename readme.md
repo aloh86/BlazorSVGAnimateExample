@@ -1,0 +1,1 @@
+Check Pages -> Index.razor for example changes.
